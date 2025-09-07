@@ -124,7 +124,10 @@ go run scan.go <username>
 در Termux، dependencies (aiohttp, rich) یکبار نصب شوند.
 
 
-
+Instagram: ✅ https://instagram.com/testuser
+Twitter: ❌ https://twitter.com/testuser
+GitHub: ✅ https://github.com/testuser
+...
 
 
 
