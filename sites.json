@@ -1,0 +1,12 @@
+[
+  {"name":"Instagram","url":"https://instagram.com/{u}"},
+  {"name":"Twitter","url":"https://twitter.com/{u}"},
+  {"name":"Facebook","url":"https://facebook.com/{u}"},
+  {"name":"YouTube","url":"https://youtube.com/@{u}"},
+  {"name":"Telegram","url":"https://t.me/{u}"},
+  {"name":"GitHub","url":"https://github.com/{u}"},
+  {"name":"Snapchat","url":"https://www.snapchat.com/add/{u}"},
+  {"name":"Reddit","url":"https://reddit.com/user/{u}"},
+  {"name":"TikTok","url":"https://www.tiktok.com/@{u}"},
+  {"name":"LinkedIn","url":"https://linkedin.com/in/{u}"}
+]
